@@ -190,8 +190,10 @@
     "fConsent": "Consentement *",
     "fConsentTxt": "J'accepte que mes données soient stockées pour recevoir une réponse. Plus de détails dans les ",
     "fBtn": "Envoyer le mail",
-    "success": "Message envoyé !",
-    "successDesc": "Nous vous contacterons dans les plus brefs délais.",
+    "success": "Merci, votre demande a bien été envoyée.",
+    "successDesc": "Notre équipe vous recontactera rapidement.",
+    "error": "Une erreur est survenue. Veuillez réessayer ou nous contacter directement par téléphone.",
+    "loading": "Envoi en cours...",
     "another": "Envoyer un autre message"
   },
   "Mentions": {
@@ -248,8 +250,10 @@
     "fConsent": "Consentement *",
     "fConsentTxt": "J'accepte que ces données soient utilisées pour évaluer mon éligibilité et être recontacté.",
     "fBtn": "Vérifier notre éligibilité",
-    "success": "Demande envoyée !",
-    "successDesc": "Un conseiller spécialisé B2B prendra contact avec vous rapidement.",
-    "another": "Nouvelle demande"
+    "success": "Merci, votre demande a bien été envoyée.",
+    "successDesc": "Notre équipe vous recontactera rapidement.",
+    "error": "Une erreur est survenue. Veuillez réessayer ou nous contacter directement par téléphone.",
+    "loading": "Envoi en cours...",
+    "another": "Envoyer une autre demande"
   }
 }

@@ -190,8 +190,10 @@
     "fConsent": "Consent *",
     "fConsentTxt": "I agree that my data will be stored to receive a response. More details in the ",
     "fBtn": "Send Message",
-    "success": "Message sent!",
-    "successDesc": "We will contact you as soon as possible.",
+    "success": "Thank you, your request has been sent.",
+    "successDesc": "Our team will contact you shortly.",
+    "error": "Something went wrong. Please try again or contact us directly by phone.",
+    "loading": "Sending...",
     "another": "Send another message"
   },
   "Mentions": {
@@ -248,8 +250,10 @@
     "fConsent": "Consent *",
     "fConsentTxt": "I agree that this data will be used to assess my eligibility and be contacted.",
     "fBtn": "Check our eligibility",
-    "success": "Request sent!",
-    "successDesc": "A B2B specialist advisor will contact you shortly.",
-    "another": "New Request"
+    "success": "Thank you, your request has been sent.",
+    "successDesc": "Our team will contact you shortly.",
+    "error": "Something went wrong. Please try again or contact us directly by phone.",
+    "loading": "Sending...",
+    "another": "Send another request"
   }
 }
